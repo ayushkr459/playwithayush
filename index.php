@@ -24,7 +24,6 @@
             text-align: center;
             color: black;
             font-family: sans-serif;
-            font-size:5vw;
         }
         .form
         {
