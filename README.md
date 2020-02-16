@@ -2,4 +2,4 @@
 
 Tic-Tac-Toe Game
 
-Enjoy this game at www.playwithayush.herokuapp.com/index.php
+Enjoy this game at https://playwithayush.herokuapp.com/index.php
