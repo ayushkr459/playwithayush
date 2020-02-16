@@ -18,8 +18,16 @@
             font-family: sans-serif;
             font-size:5vw;
         }
-
-        .form{
+        
+        p
+        {
+            text-align: center;
+            color: black;
+            font-family: sans-serif;
+            font-size:5vw;
+        }
+        .form
+        {
             display: inline-block;
             font-size:1vw;
         }
@@ -165,6 +173,7 @@ if(isset($_POST["submitbtn"]))
                     
                     ?>
                     </form>
+                    <p> PS:- The game is still in development phase.If you are playing this on your handy mobile phone then please do come after some days</p> 
                 </div>
             </div>
         </div>
