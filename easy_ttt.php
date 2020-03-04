@@ -170,7 +170,7 @@ if(isset($_POST["submitbtn"]))
             <div class="row">
                 <div class ="col-lg-4 col-md-4 col-sm-4"> 
                 <div class="heading"><h1>Tic-Tac-Toe</h1></div>   
-                    <form class="form" name="tictactoe" method="POST" action="index.php">
+                    <form class="form" name="tictactoe" method="POST" action="easy_ttt.php">
                     
                     <?php
                     
