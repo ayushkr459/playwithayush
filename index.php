@@ -152,7 +152,7 @@
 <div class="heading">
     <h1>Play Tic-Tac-Toe</h1>
 </div>
-<a href="C:\xampp\htdocs\ttt\easy_ttt.php"><button class="btn button"><i class="fas fa-baby"></i>Easy</button></a>
+<a href="easy_ttt.php"><button class="btn button"><i class="fas fa-baby"></i>Easy</button></a>
 <a href="#"><button class="btn button"><i class="fas fa-user-graduate"></i>Hard</button></a>
 
  <div class="footer">
